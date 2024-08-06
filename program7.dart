@@ -6,7 +6,7 @@ int num1=int.parse(stdin.readLineSync()!);
 int factorial=1;
 for(int i=1;i<=num1;i++)
 {
-factrocal=factorial*i;
+factorial=factorial*i;
 }
 print("factorial of $num1 is: $factorial");
 }
